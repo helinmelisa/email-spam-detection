@@ -45,11 +45,6 @@ b. For the Python part of the project:
   source venv/bin/activate
   ```
 
-- Install the necessary Python dependencies using `pip`.
-  ```
-  pip install -r requirements.txt
-  ```
-
 4. **Introduction:** Get an overview of the project and its objectives.
 5. **Dataset:** Understand the dataset used for this project and its structure.
 6. **Preprocessing:** Learn how to clean and preprocess email data, including text normalization, tokenization, and removal of stop words.
